@@ -1,5 +1,6 @@
 # CV
 
+https://github.com/aldredrecana/CV
 CV Project
 
 A simple, semantic HTML page for my personal CV (Curriculum Vitae). Built as part of a roadmap.sh task focused on writing clean, meaningful HTML — no CSS styling yet, that comes in a future project.
